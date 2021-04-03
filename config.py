@@ -1,0 +1,7 @@
+TOKEN = 'NzkyNDkyMTQ5NTQ3NDY2NzUy.X-ef1A.F5Az2ixPVl8eJAIbnQ2kgis7-0Q'
+
+POST_ID = 793493541216190476 # post id to read reaction from
+
+BOT_ID = 815550757436784642
+
+PREFIX = '$'
